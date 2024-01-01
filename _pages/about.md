@@ -39,7 +39,7 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 <div class='paper-box-text' markdown="1">
 [RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a066/1RLIWnQFbdm) \\
 Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing Guo, Yang Liu \\
-**International Conference on Software Engineering 2024** <div style="color: red;">(CCF-A)</div>
+**International Conference on Software Engineering 2024** (CCF-A)
 </div>
 </div> 
 
@@ -47,19 +47,41 @@ Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing
 <div class='paper-box-text' markdown="1">
 [Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2305.10701.pdf) \\
 **Yihao Huang**, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu \\
-**AAAI Conference on Artificial Intelligence 2024** <div style="color: red;">(CCF-A)</div>
+**AAAI Conference on Artificial Intelligence 2024** (CCF-A)
 </div>
 </div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation]([https://arxiv.org/pdf/2305.10701.pdf](https://arxiv.org/pdf/2210.08285.pdf)) \\
+[FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation](https://arxiv.org/pdf/2210.08285.pdf) \\
 Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang Liu, Xiang Lian, Mingsong Chen \\
-**IEEE International Conference on Data Engineering 2024** <div style="color: red;">(CCF-A)</div>
+**IEEE International Conference on Data Engineering 2024** (CCF-A)
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Natural & Adversarial Bokeh Rendering via Circle-of-Confusion Predictive Network](https://arxiv.org/pdf/2111.12971.pdf)) \\
+**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Geguang Pu, Yang Liu \\
+**IEEE Transactions on Multimedia 2023** (CCF-B)
+</div>
+</div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Dodging DeepFake Detection via Implicit Spatial-Domain Notch Filtering](https://arxiv.org/pdf/2009.09213.pdf)) \\
+**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Yang Liu, Geguang Pu \\
+**IEEE Transactions on Circuits and Systems for Video Technology 2023** (CCF-B)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RTSS 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[GitFL: Uncertainty-Aware Real-Time Asynchronous Federated Learning using Version Control](https://arxiv.org/pdf/2211.12049.pdf) \\
+Ming Hu, Zeke Xia, DengKe Yan, Zhihao Yue, Jun Xia, **Yihao Huang**, Yang Liu, Mingsong Chen \\
+**IEEE Real-Time Systems Symposium 2023** (CCF-A)
+</div>
+</div> 
 
 # 💻 Service
 Reviewer:
