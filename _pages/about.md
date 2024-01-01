@@ -21,7 +21,6 @@ I am a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg
 
 My research interest includes AI security in computer vision, focusing on DeepFake, Adversarial Attack, LLM, etc. 
 
-
 # 🔥 News
 - *2023.12*: &nbsp;🎉 One paper is accepted to ICSE 2024. 
 - *2023.12*: &nbsp;🎉 One paper is accepted to AAAI 2024. 
