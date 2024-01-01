@@ -107,11 +107,75 @@ Felix Juefei-Xu, Run Wang, **Yihao Huang**, Qing Guo, Lei Ma, Yang Liu  \\
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FakeLocator: Robust Localization of GAN-Based Face Manipulations](https://ieeexplore.ieee.org/document/9673747) \\
 **Yihao Huang**, Felix Juefei-Xu, Qing Guo, Yang Liu, Geguang Pu \\
-**IEEE Transactions on Information Forensics and Security 2023** (CCF-A)
+**IEEE Transactions on Information Forensics and Security 2022** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning](https://dl.acm.org/doi/10.1145/3474085.3475171) \\
+**Yihao Huang**, Qing Guo, Felix Juefei-Xu, Lei Ma, Weikai Miao, Yang Liu, Geguang Pu \\
+**ACM International Conference on Multimedia 2021** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain](https://dl.acm.org/doi/abs/10.1145/3368089.3417047) \\
+Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang, Ting Su, Bin Gu, Geguang Pu, Mengfei Yang, Jifeng He \\
+**Foundations of Software Engineering 2020** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices](https://dl.acm.org/doi/abs/10.1145/3394171.3413716) \\
+Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu \\
+**ACM International Conference on Multimedia 2020** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Amora: Black-box adversarial morphing attack](https://dl.acm.org/doi/10.1145/3394171.3413544) \\
+Run Wang, Felix Juefei-Xu, Xiaofei Xie, **Yihao Huang**, Yang Liu \\
+**ACM International Conference on Multimedia 2020** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction](https://dl.acm.org/doi/10.1145/3394171.3413732) \\
+**Yihao Huang**, Felix Juefei-Xu, Run Wang, Qing Guo, Lei Ma, Xiaofei Xie, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu \\
+**ACM International Conference on Multimedia 2020** (CCF-A)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces](https://www.ijcai.org/proceedings/2020/476) \\
+Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang Liu \\
+**International Joint Conference on Artificial Intelligence 2020** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSEC 2019</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Domain Experts Centric Approach to Formal Requirements Modeling and V&V of Embedded Control Software](https://ieeexplore.ieee.org/document/8945525) \\
+Weikai Miao, Qianqian Yan, **Yihao Huang**, Jincao Feng, Hanyue Zheng \\
+**Asia-Pacific Software Engineering Conference 2019** (CCF-C)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2019</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Prema: A Tool for Precise Requirements Editing, Modeling and Analysis ](https://ieeexplore.ieee.org/document/8952250) \\
+**Yihao Huang**, Jincao Feng, Hanyue Zheng, Jiayi Zhu, Shang Wang, Siyuan Jiang, Weikai Miao, Geguang Pu  \\
+**IEEE/ACM International Conference on Automated Software Engineering 2019** (Tool paper)
 </div>
 </div> 
 
