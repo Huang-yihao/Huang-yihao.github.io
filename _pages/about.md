@@ -57,8 +57,8 @@ Reviewer:
 
 # 🎖 Honors and Awards
 - *2022.10* Best Paper Award in [ECCV 2022 AROW workshop](https://eccv22-arow.github.io/)
-- *2022.02* Outstanding Graduate of Shanghai 2022. 
-- *2021.10* National Graduate Fellowship 2022. 
+- *2022.02* Outstanding Graduate of Shanghai. 
+- *2021.10* National Graduate Fellowship, China. 
 
 # 📖 Educations
 - *2017.09 - 2022.06*, East China Normal University, Ph.D. 
