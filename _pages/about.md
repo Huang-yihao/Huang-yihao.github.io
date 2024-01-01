@@ -131,7 +131,7 @@ Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang,
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='pub_images/ACMMM2020_DeepSonar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020 (Oral)</div><img src='pub_images/ACMMM2020_DeepSonar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices](https://dl.acm.org/doi/abs/10.1145/3394171.3413716) \\
 Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu \\
@@ -139,7 +139,7 @@ Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang 
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='pub_images/ACMMM2020_Amora.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020 (Oral)</div><img src='pub_images/ACMMM2020_Amora.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Amora: Black-box adversarial morphing attack](https://dl.acm.org/doi/10.1145/3394171.3413544) \\
 Run Wang, Felix Juefei-Xu, Xiaofei Xie, **Yihao Huang**, Yang Liu \\
@@ -147,7 +147,7 @@ Run Wang, Felix Juefei-Xu, Xiaofei Xie, **Yihao Huang**, Yang Liu \\
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='pub_images/ACMMM2020_FakePolisher.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020 (Oral)</div><img src='pub_images/ACMMM2020_FakePolisher.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction](https://dl.acm.org/doi/10.1145/3394171.3413732) \\
 **Yihao Huang**, Felix Juefei-Xu, Run Wang, Qing Guo, Lei Ma, Xiaofei Xie, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu \\
