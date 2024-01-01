@@ -19,7 +19,7 @@ redirect_from:
 
 I am a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I got Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017). I also collaborate with Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/) closely.
 
-My research interest includes AI security in computer vision, focusing on DeepFake, Adversarial Attack, LLM, etc. 
+My research interest includes AI security in computer vision, focusing on DeepFake, Adversarial Attacks, LLM, etc. 
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉 One paper is accepted to ICSE 2024. 
@@ -37,9 +37,8 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-- [Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2211.16175.pdf), **Yihao Huang**, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu, **AAAI Conference on Artificial Intelligence 2024** (CCF-A)
-
+[Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2211.16175.pdf) \\
+**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu, **AAAI Conference on Artificial Intelligence 2024** (CCF-A)
 </div>
 </div> 
 
