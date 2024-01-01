@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/). I got Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017).
+I am a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I got Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017). I also collaborate with Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/) closely.
 
-My research interest includes AI security in computer vision, focusing on DeepFake, Adversarial Attack, LLM, etc. I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=yHSSQ6cAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=yHSSQ6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes AI security in computer vision, focusing on DeepFake, Adversarial Attack, LLM, etc. 
 
 
 # 🔥 News
