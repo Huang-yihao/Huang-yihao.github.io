@@ -35,6 +35,14 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a066/1RLIWnQFbdm) \\
+Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing Guo, Yang Liu \\
+**International Conference on Software Engineering 2024** <div style="color: red;">(CCF-A)</div>
+</div>
+</div> 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2305.10701.pdf) \\
@@ -43,13 +51,15 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness](https://arxiv.org/pdf/2211.16175.pdf) \\
-Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing Guo, Yang Liu \\
-**International Conference on Software Engineering 2024** (CCF-A)
+[FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation]([https://arxiv.org/pdf/2305.10701.pdf](https://arxiv.org/pdf/2210.08285.pdf)) \\
+Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang Liu, Xiang Lian, Mingsong Chen \\
+**IEEE International Conference on Data Engineering 2024** <div style="color: red;">(CCF-A)</div>
 </div>
 </div> 
+
+
 
 # 💻 Service
 Reviewer:
