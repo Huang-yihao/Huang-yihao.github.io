@@ -23,8 +23,17 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉 One paper is accepted to ICSE 2024. 
+- *2023.12*: &nbsp;🎉 One paper is accepted to AAAI 2024. 
+- *2023.12*: &nbsp;🎉 One paper is accepted to ICDE 2024.
+- *2023.11*: &nbsp;🎉 One paper is accepted to TMM. 
+- *2023.10*: &nbsp;🎉 One paper is accepted to TCSVT.
+- *2023.07*: &nbsp;🎉 One paper is accepted to RTSS 2023.
+- *2023.07*: &nbsp;🎉 One paper is accepted to ACM MM 2023.
+- *2023.02*: &nbsp;🎉 One paper is accepted to CVPR 2023.
+- *2023.10*: &nbsp;🎉 We are awarded the Best Paper Award in [ECCV 2022 AROW workshop](https://eccv22-arow.github.io/)
+- *2022.02*: &nbsp;🎉 I obtained the Outstanding Graduate of Shanghai 2022.
+- *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
 
