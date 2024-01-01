@@ -83,6 +83,38 @@ Ming Hu, Zeke Xia, DengKe Yan, Zhihao Yue, Jun Xia, **Yihao Huang**, Yang Liu, M
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ALA: Naturalness-aware Adversarial Lightness Attack](https://arxiv.org/pdf/2201.06070.pdf) \\
+**Yihao Huang**, Liangru Sun, Qing Guo, Felix Juefei-Xu, Jiayi Zhu, Jincao Feng, Yang Liu, Geguang Pu \\
+**ACM International Conference on Multimedia 2023** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Evading DeepFake Detectors via Adversarial Statistical Consistency](https://openaccess.thecvf.com/content/CVPR2023/papers/Hou_Evading_DeepFake_Detectors_via_Adversarial_Statistical_Consistency_CVPR_2023_paper.pdf) \\
+Yang Hou, Qing Guo, **Yihao Huang**, Xiaofei Xie, Lei Ma, Jianjun Zhao \\
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://openaccess.thecvf.com/content/CVPR2023/papers/Hou_Evading_DeepFake_Detectors_via_Adversarial_Statistical_Consistency_CVPR_2023_paper.pdf) \\
+Felix Juefei-Xu, Run Wang, **Yihao Huang**, Qing Guo, Lei Ma, Yang Liu  \\
+**International Journal of Computer Vision 2023** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FakeLocator: Robust Localization of GAN-Based Face Manipulations](https://ieeexplore.ieee.org/document/9673747) \\
+**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Yang Liu, Geguang Pu \\
+**IEEE Transactions on Information Forensics and Security 2023** (CCF-A)
+</div>
+</div> 
+
 # 💻 Service
 Reviewer:
 - Conference: AAAI, CVPR, ICCV, IJCAI, ECCV
