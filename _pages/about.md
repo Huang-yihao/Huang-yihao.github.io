@@ -163,14 +163,6 @@ Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSEC 2019</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A Domain Experts Centric Approach to Formal Requirements Modeling and V&V of Embedded Control Software](https://ieeexplore.ieee.org/document/8945525) \\
-Weikai Miao, Qianqian Yan, **Yihao Huang**, Jincao Feng, Hanyue Zheng \\
-**Asia-Pacific Software Engineering Conference 2019** (CCF-C)
-</div>
-</div> 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2019</div><img src='pub_images/ASE2019_Prema.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Prema: A Tool for Precise Requirements Editing, Modeling and Analysis ](https://ieeexplore.ieee.org/document/8952250) \\
