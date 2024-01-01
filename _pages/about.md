@@ -35,7 +35,7 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2024</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a066/1RLIWnQFbdm) \\
 Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing Guo, Yang Liu \\
@@ -43,7 +43,7 @@ Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2305.10701.pdf) \\
 **Yihao Huang**, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu \\
@@ -51,7 +51,7 @@ Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation](https://arxiv.org/pdf/2210.08285.pdf) \\
 Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang Liu, Xiang Lian, Mingsong Chen \\
@@ -59,7 +59,7 @@ Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang 
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Natural & Adversarial Bokeh Rendering via Circle-of-Confusion Predictive Network](https://arxiv.org/pdf/2111.12971.pdf)) \\
 **Yihao Huang**, Felix Juefei-Xu, Qing Guo, Geguang Pu, Yang Liu \\
@@ -67,7 +67,7 @@ Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang 
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Dodging DeepFake Detection via Implicit Spatial-Domain Notch Filtering](https://arxiv.org/pdf/2009.09213.pdf)) \\
 **Yihao Huang**, Felix Juefei-Xu, Qing Guo, Yang Liu, Geguang Pu \\
@@ -75,7 +75,7 @@ Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang 
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RTSS 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RTSS 2023</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [GitFL: Uncertainty-Aware Real-Time Asynchronous Federated Learning using Version Control](https://arxiv.org/pdf/2211.12049.pdf) \\
 Ming Hu, Zeke Xia, DengKe Yan, Zhihao Yue, Jun Xia, **Yihao Huang**, Yang Liu, Mingsong Chen \\
@@ -83,7 +83,7 @@ Ming Hu, Zeke Xia, DengKe Yan, Zhihao Yue, Jun Xia, **Yihao Huang**, Yang Liu, M
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ALA: Naturalness-aware Adversarial Lightness Attack](https://arxiv.org/pdf/2201.06070.pdf) \\
 **Yihao Huang**, Liangru Sun, Qing Guo, Felix Juefei-Xu, Jiayi Zhu, Jincao Feng, Yang Liu, Geguang Pu \\
@@ -91,7 +91,7 @@ Ming Hu, Zeke Xia, DengKe Yan, Zhihao Yue, Jun Xia, **Yihao Huang**, Yang Liu, M
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Evading DeepFake Detectors via Adversarial Statistical Consistency](https://openaccess.thecvf.com/content/CVPR2023/papers/Hou_Evading_DeepFake_Detectors_via_Adversarial_Statistical_Consistency_CVPR_2023_paper.pdf) \\
 Yang Hou, Qing Guo, **Yihao Huang**, Xiaofei Xie, Lei Ma, Jianjun Zhao \\
@@ -99,7 +99,7 @@ Yang Hou, Qing Guo, **Yihao Huang**, Xiaofei Xie, Lei Ma, Jianjun Zhao \\
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://openaccess.thecvf.com/content/CVPR2023/papers/Hou_Evading_DeepFake_Detectors_via_Adversarial_Statistical_Consistency_CVPR_2023_paper.pdf) \\
 Felix Juefei-Xu, Run Wang, **Yihao Huang**, Qing Guo, Lei Ma, Yang Liu  \\
@@ -107,7 +107,7 @@ Felix Juefei-Xu, Run Wang, **Yihao Huang**, Qing Guo, Lei Ma, Yang Liu  \\
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FakeLocator: Robust Localization of GAN-Based Face Manipulations](https://ieeexplore.ieee.org/document/9673747) \\
 **Yihao Huang**, Felix Juefei-Xu, Qing Guo, Yang Liu, Geguang Pu \\
@@ -115,7 +115,7 @@ Felix Juefei-Xu, Run Wang, **Yihao Huang**, Qing Guo, Lei Ma, Yang Liu  \\
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning](https://dl.acm.org/doi/10.1145/3474085.3475171) \\
 **Yihao Huang**, Qing Guo, Felix Juefei-Xu, Lei Ma, Weikai Miao, Yang Liu, Geguang Pu \\
@@ -123,7 +123,7 @@ Felix Juefei-Xu, Run Wang, **Yihao Huang**, Qing Guo, Lei Ma, Yang Liu  \\
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2020</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain](https://dl.acm.org/doi/abs/10.1145/3368089.3417047) \\
 Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang, Ting Su, Bin Gu, Geguang Pu, Mengfei Yang, Jifeng He \\
@@ -131,7 +131,7 @@ Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang,
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices](https://dl.acm.org/doi/abs/10.1145/3394171.3413716) \\
 Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu \\
@@ -139,7 +139,7 @@ Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang 
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Amora: Black-box adversarial morphing attack](https://dl.acm.org/doi/10.1145/3394171.3413544) \\
 Run Wang, Felix Juefei-Xu, Xiaofei Xie, **Yihao Huang**, Yang Liu \\
@@ -147,7 +147,7 @@ Run Wang, Felix Juefei-Xu, Xiaofei Xie, **Yihao Huang**, Yang Liu \\
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='pub_images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction](https://dl.acm.org/doi/10.1145/3394171.3413732) \\
 **Yihao Huang**, Felix Juefei-Xu, Run Wang, Qing Guo, Lei Ma, Xiaofei Xie, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu \\
@@ -155,7 +155,7 @@ Run Wang, Felix Juefei-Xu, Xiaofei Xie, **Yihao Huang**, Yang Liu \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020</div><img src='pub_images/IJCAI2020_Fakespotter.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces](https://www.ijcai.org/proceedings/2020/476) \\
 Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang Liu \\
