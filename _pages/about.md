@@ -171,7 +171,7 @@ Weikai Miao, Qianqian Yan, **Yihao Huang**, Jincao Feng, Hanyue Zheng \\
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2019</div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2019</div><img src='pub_images/ASE2019_Prema.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Prema: A Tool for Precise Requirements Editing, Modeling and Analysis ](https://ieeexplore.ieee.org/document/8952250) \\
 **Yihao Huang**, Jincao Feng, Hanyue Zheng, Jiayi Zhu, Shang Wang, Siyuan Jiang, Weikai Miao, Geguang Pu  \\
