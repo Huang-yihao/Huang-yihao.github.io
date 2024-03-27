@@ -22,6 +22,7 @@ I am a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg
 My research interest includes AI security in computer vision, focusing on DeepFake, Adversarial Attacks, LLM, etc. 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉 One paper is accepted to CVPR 2024.
 - *2023.12*: &nbsp;🎉 One paper is accepted to ICSE 2024. 
 - *2023.12*: &nbsp;🎉 One paper is accepted to AAAI 2024. 
 - *2023.12*: &nbsp;🎉 One paper is accepted to ICDE 2024.
@@ -35,6 +36,14 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='pub_images/2024CVPR_COSALPURE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection]() \\
+Jiayi Zhu, Qing Guo, Felix Juefei-Xu, **Yihao Huang**, Yang Liu, Geguang Pu \\
+**Computer Vision and Pattern Recognition 2024** (CCF-A)
+</div>
+</div> 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2024</div><img src='pub_images/2024ICSE_RUNNER.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a066/1RLIWnQFbdm) \\
