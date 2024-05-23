@@ -193,7 +193,7 @@ Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang
 
 # 💻 Service
 Reviewer:
-- Conference: AAAI, CVPR, ICCV, IJCAI, ECCV, ACMMM
+- Conference: NeurIPS, AAAI, CVPR, ICCV, IJCAI, ECCV, ACMMM
 - Journal: TCSVT, IJCV, NN, CVIU
 
 # 🎖 Honors and Awards
