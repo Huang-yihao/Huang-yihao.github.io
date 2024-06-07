@@ -57,7 +57,7 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='pub_images/2024CVPR_COSALPURE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection]() \\
+[CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection](https://arxiv.org/abs/2403.18554) \\
 Jiayi Zhu, Qing Guo, Felix Juefei-Xu, **Yihao Huang**, Yang Liu, Geguang Pu \\
 **Computer Vision and Pattern Recognition 2024** (CCF-A)
 </div>
