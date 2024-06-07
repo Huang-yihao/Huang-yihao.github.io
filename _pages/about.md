@@ -47,6 +47,14 @@ My research interest includes AI security in computer vision, focusing on DeepFa
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='pub_images/2024TIFS_TSC_UAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Texture Re-scalable Universal Adversarial Perturbation]() \\
+**Yihao Huang**, Qing Guo, Felix Juefei-Xu, Ming Hu, Xiaojun Jia, Xiaochun Cao, Geguang Pu, Yang Liu \\
+**IEEE Transactions on Information Forensics and Security 2024** (CCF-A)
+</div>
+</div> 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='pub_images/2024CVPR_COSALPURE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection]() \\
