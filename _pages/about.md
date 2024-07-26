@@ -202,7 +202,7 @@ Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang
 
 # 💻 Service
 Reviewer:
-- Conference: NeurIPS, AAAI, CVPR, ICCV, IJCAI, ECCV, ACMMM
+- Conference: NeurIPS, AAAI, CVPR, ICCV, IJCAI, ECCV, ACM MM
 - Journal: TCSVT, IJCV, NN, CVIU
 
 # 🎖 Honors and Awards
@@ -216,8 +216,9 @@ Reviewer:
 - *2010.09 - 2013.06*, Shanghai Gezhi High School.
 
 # 💬 Invited Talks
-- *2023.09*, UTOPILOT, China, Title "Robustness Evaluation of Visual Perception Systems". \| [Slide](https://github.com/Huang-yihao/Huang-yihao.github.io/blob/main/blob/Invited_talk/UTOPILOT_2023_9_Robustness_Evaluation_of_Visual_Perception_Systems.pdf)
-- *2021.10*, Valse 2021, China, Title "AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning".
+- *2024.07*, [WAIC](https://english.shanghai.gov.cn/en-2024waic/index.html), China, Title "Academic Thinking and Future Prospects on DeepFake Detection and Adversarial Attack".
+- *2023.09*, [UTOPILOT](http://utopilot.ai/), China, Title "Robustness Evaluation of Visual Perception Systems". \| [Slide](https://github.com/Huang-yihao/Huang-yihao.github.io/blob/main/blob/Invited_talk/UTOPILOT_2023_9_Robustness_Evaluation_of_Visual_Perception_Systems.pdf)
+- *2021.10*, [Valse 2021](https://valser.org/2021/#/), China, Title "AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning".
 
 <div style="width: 200px; height: 100px; ">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ASpz8ZkQ2GWxGPubSejukEoQVn4Q8ScExdJ7d3yC5eM&cl=ffffff&w=a"></script>
