@@ -203,7 +203,7 @@ Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang
 # 💻 Service
 Reviewer:
 - Conference: NeurIPS, AAAI, CVPR, ICCV, IJCAI, ECCV, ACM MM, ICLR, WWW
-- Journal: TCSVT, IJCV, NN, CVIU
+- Journal: TCSVT, IJCV, NN, CVIU, JCST, TMM
 
 # 🎖 Honors and Awards
 - *2022.10* Best Paper Award in [ECCV 2022 AROW workshop](https://eccv22-arow.github.io/)
