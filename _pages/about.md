@@ -51,7 +51,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='pub_images/2024TIFS_TSC_UAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='pub_images/2025AAAI_PGJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Perception-guided Jailbreak against Text-to-Image Models]()\\
 **Yihao Huang**, Le Liang, Tianlin Li, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu \\
