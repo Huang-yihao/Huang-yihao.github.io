@@ -30,7 +30,8 @@ redirect_from:
 
 I am a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I got Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017). I also collaborate with Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/) closely.
 
-My research interest includes AI security in Multimedia, focusing on DeepFake, Adversarial Attacks, LLM, etc. <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
+My research interest includes AI security in Multimedia, focusing on DeepFake, Adversarial Attacks, LLM, etc. 
+<p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉 One paper is accepted to AAAI 2025.
