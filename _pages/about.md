@@ -56,7 +56,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 <div class='paper-box-text' markdown="1">
 [JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks]()\\
 Xiaoyu Zhang, Cen Zhang, Tianlin Li, **Yihao Huang**, Xiaojun Jia, Ming Hu, Jie Zhang, Yang Liu, Shiqing Ma, Chao Shen\\
-**Transactions on Software Engineering and Methodology 2025** (CCF-A)
+**ACM Transactions on Software Engineering and Methodology 2025** (CCF-A)
 </div>
 </div> 
 
