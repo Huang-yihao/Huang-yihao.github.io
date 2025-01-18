@@ -52,13 +52,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOSEM 2025</div><img src='pub_images/2025TOSEM_Jailguard.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks]()\\
-Xiaoyu Zhang, Cen Zhang, Tianlin Li, **Yihao Huang**, Xiaojun Jia, Ming Hu, Jie Zhang, Yang Liu, Shiqing Ma, Chao Shen\\
-**ACM Transactions on Software Engineering and Methodology 2025** (CCF-A)
-</div>
-</div> 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='pub_images/2025AAAI_PGJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
