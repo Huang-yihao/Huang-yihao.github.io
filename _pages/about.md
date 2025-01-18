@@ -35,7 +35,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉 One paper is accepted to TOSEM 2025.
-- *2024.12*: &nbsp;🎉 One paper is accepted to AAAI 2025.
+- *2024.12*: &nbsp;🎉 One paper is accepted to AAAI 2025 (oral).
 - *2024.06*: &nbsp;🎉 One paper is accepted to TIFS 2024.
 - *2024.02*: &nbsp;🎉 One paper is accepted to CVPR 2024.
 - *2023.12*: &nbsp;🎉 One paper is accepted to ICSE 2024. 
@@ -54,7 +54,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='pub_images/2025AAAI_PGJ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Oral)</div><img src='pub_images/2025AAAI_PGJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Perception-guided Jailbreak against Text-to-Image Models]()\\
 **Yihao Huang**, Le Liang, Tianlin Li, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu \\
