@@ -54,7 +54,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2025</div><img src='pub_images/2025ICSE_CCLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks]()\\
-**Shide Zhou**, Tianlin Li, Kailong Wang, Yihao Huang, Ling Shi, Yang Liu, Haoyu Wang \\
+Shide Zhou, Tianlin Li, Kailong Wang, **Yihao Huang**, Ling Shi, Yang Liu, Haoyu Wang \\
 **IEEE/ACM International Conference on Software Engineering 2025** (CCF-A)
 </div>
 </div> 
