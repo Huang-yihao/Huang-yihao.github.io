@@ -34,6 +34,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 One paper is accepted to ICLR 2025.
 - *2025.01*: &nbsp;🎉 One paper is accepted to ICSE 2025.
 - *2024.12*: &nbsp;🎉 One paper is accepted to AAAI 2025 (oral).
 - *2024.06*: &nbsp;🎉 One paper is accepted to TIFS 2024.
@@ -51,6 +52,15 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='pub_images/2025ICLR_IGCG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models]()\\
+Xiaojun Jia, Tianyu Pang, Chao Du, **Yihao Huang**, Jindong Gu, Yang Liu, Xiaochun Cao, Min Lin \\
+**International Conference on Learning Representations 2025**
+</div>
+</div> 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2025</div><img src='pub_images/2025ICSE_CCLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks]()\\
