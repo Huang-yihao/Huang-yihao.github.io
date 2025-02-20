@@ -54,7 +54,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='pub_images/2025ICLR_IGCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models]()\\
+[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models](https://arxiv.org/pdf/2405.21018)\\
 Xiaojun Jia, Tianyu Pang, Chao Du, **Yihao Huang**, Jindong Gu, Yang Liu, Xiaochun Cao, Min Lin \\
 **International Conference on Learning Representations 2025**
 </div>
@@ -63,7 +63,7 @@ Xiaojun Jia, Tianyu Pang, Chao Du, **Yihao Huang**, Jindong Gu, Yang Liu, Xiaoch
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2025</div><img src='pub_images/2025ICSE_CCLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks]()\\
+[Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks](https://arxiv.org/pdf/2408.15207)\\
 Shide Zhou, Tianlin Li, Kailong Wang, **Yihao Huang**, Ling Shi, Yang Liu, Haoyu Wang \\
 **IEEE/ACM International Conference on Software Engineering 2025** (CCF-A)
 </div>
@@ -72,7 +72,7 @@ Shide Zhou, Tianlin Li, Kailong Wang, **Yihao Huang**, Ling Shi, Yang Liu, Haoyu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Oral)</div><img src='pub_images/2025AAAI_PGJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Perception-guided Jailbreak against Text-to-Image Models]()\\
+[Perception-guided Jailbreak against Text-to-Image Models](https://arxiv.org/pdf/2408.10848)\\
 **Yihao Huang**, Le Liang, Tianlin Li, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu \\
 **AAAI Conference on Artificial Intelligence 2025** (CCF-A)
 </div>
@@ -80,7 +80,7 @@ Shide Zhou, Tianlin Li, Kailong Wang, **Yihao Huang**, Ling Shi, Yang Liu, Haoyu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='pub_images/2024TIFS_TSC_UAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Texture Re-scalable Universal Adversarial Perturbation]() \\
+[Texture Re-scalable Universal Adversarial Perturbation](https://arxiv.org/pdf/2406.06089) \\
 **Yihao Huang**, Qing Guo, Felix Juefei-Xu, Ming Hu, Xiaojun Jia, Xiaochun Cao, Geguang Pu, Yang Liu \\
 **IEEE Transactions on Information Forensics and Security 2024** (CCF-A)
 </div>
@@ -88,7 +88,7 @@ Shide Zhou, Tianlin Li, Kailong Wang, **Yihao Huang**, Ling Shi, Yang Liu, Haoyu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='pub_images/2024CVPR_COSALPURE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection](https://arxiv.org/abs/2403.18554) \\
+[CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection](https://arxiv.org/pdf/2403.18554) \\
 Jiayi Zhu, Qing Guo, Felix Juefei-Xu, **Yihao Huang**, Yang Liu, Geguang Pu \\
 **Computer Vision and Pattern Recognition 2024** (CCF-A)
 </div>
