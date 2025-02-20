@@ -96,7 +96,7 @@ Jiayi Zhu, Qing Guo, Felix Juefei-Xu, **Yihao Huang**, Yang Liu, Geguang Pu \\
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2024</div><img src='pub_images/2024ICSE_RUNNER.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a066/1RLIWnQFbdm) \\
+[RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness](https://dl.acm.org/doi/10.1145/3597503.3623334) \\
 Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing Guo, Yang Liu \\
 **International Conference on Software Engineering 2024** (CCF-A)
 </div>
