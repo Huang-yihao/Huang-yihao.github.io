@@ -57,7 +57,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 <div class='paper-box-text' markdown="1">
 [Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution]()\\
 **Yihao Huang**, Xin Luo, Qing Guo, Felix Juefei-Xu, Xiaojun Jia, Weikai Miao, Geguang Pu, Yang Liu\\
-**IEEE Transactions on Information Forensics and Security 2025**
+**IEEE Transactions on Information Forensics and Security 2025** (CCF-A)
 </div>
 </div> 
 
