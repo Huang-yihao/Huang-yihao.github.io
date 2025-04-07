@@ -34,6 +34,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉 One paper is accepted to SIGIR 2025.
 - *2025.03*: &nbsp;🎉 One paper is accepted to TOSEM 2025.
 - *2025.02*: &nbsp;🎉 One paper is accepted to TIFS 2025.
 - *2025.01*: &nbsp;🎉 One paper is accepted to ICLR 2025.
@@ -54,6 +55,13 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='pub_images/2025SIGIR_PATFinger.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage]()\\
+Wenyi Zhang, Ju Jia, Xiaojun Jia, **Yihao Huang**, Xinfeng Li, Cong Wu, and Lina Wang\\
+**International ACM SIGIR Conference on Research and Development in Information Retrieval 2025** (CCF-A)
+</div>
+</div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOSEM 2025</div><img src='pub_images/2025TOSEM_Jailguard.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
