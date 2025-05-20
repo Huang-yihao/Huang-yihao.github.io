@@ -34,7 +34,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉 One paper is accepted to ACL (main) 2025.
+- *2025.05*: &nbsp;🎉 One paper is accepted to ACL 2025 (main).
 - *2025.04*: &nbsp;🎉 One paper is accepted to SIGIR 2025.
 - *2025.03*: &nbsp;🎉 One paper is accepted to TOSEM 2025.
 - *2025.02*: &nbsp;🎉 One paper is accepted to TIFS 2025.
