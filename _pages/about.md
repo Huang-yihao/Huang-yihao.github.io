@@ -66,7 +66,7 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='pub_images/2025SIGIR_PATFinger.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage]()\\
+[PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage](https://arxiv.org/pdf/2504.11509)\\
 Wenyi Zhang, Ju Jia, Xiaojun Jia, **Yihao Huang**, Xinfeng Li, Cong Wu, and Lina Wang\\
 **International ACM SIGIR Conference on Research and Development in Information Retrieval 2025** (CCF-A)
 </div>
@@ -74,7 +74,7 @@ Wenyi Zhang, Ju Jia, Xiaojun Jia, **Yihao Huang**, Xinfeng Li, Cong Wu, and Lina
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOSEM 2025</div><img src='pub_images/2025TOSEM_Jailguard.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks]()\\
+[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](https://arxiv.org/pdf/2312.10766)\\
 Xiaoyu Zhang, Cen Zhang, Tianlin Li, **Yihao Huang**, Xiaojun Jia, Ming Hu, Jie Zhang, Yang Liu, Shiqing Ma, Chao Shen\\
 **ACM Transactions on Software Engineering and Methodology 2025** (CCF-A)
 </div>
@@ -82,7 +82,7 @@ Xiaoyu Zhang, Cen Zhang, Tianlin Li, **Yihao Huang**, Xiaojun Jia, Ming Hu, Jie 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='pub_images/2025TIFS_SIAGT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution]()\\
+[Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution](https://arxiv.org/pdf/2503.04385)\\
 **Yihao Huang**, Xin Luo, Qing Guo, Felix Juefei-Xu, Xiaojun Jia, Weikai Miao, Geguang Pu, Yang Liu\\
 **IEEE Transactions on Information Forensics and Security 2025** (CCF-A)
 </div>
