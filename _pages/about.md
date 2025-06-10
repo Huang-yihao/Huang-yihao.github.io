@@ -34,6 +34,8 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉 One paper is accepted to Usenix Security.
+- *2025.06*: &nbsp;🎉 One paper is accepted to TPAMI.
 - *2025.05*: &nbsp;🎉 One paper is accepted to ACL 2025 (main).
 - *2025.04*: &nbsp;🎉 One paper is accepted to SIGIR 2025.
 - *2025.03*: &nbsp;🎉 One paper is accepted to TOSEM 2025.
@@ -56,9 +58,25 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='pub_images/2025usenix_USD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph]()\\
+Yuyang Zhang, Kangjie Chen, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, **Yihao Huang**, Run Wang, Lina Wang\\
+**USENIX Security Symposium 2025** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='pub_images/2025TPAMI_SAAET.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack](https://arxiv.org/pdf/2411.02669)\\
+Xiaojun Jia, Sensen Gao, Qing Guo, Ke Ma, **Yihao Huang**, Simeng Qin, Yang Liu, Ivor Tsang Fellow, Xiaochun Cao\\
+**IEEE Transactions on Pattern Analysis and Machine Intelligence 2025** (CCF-A)
+</div>
+</div> 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='pub_images/2025ACL_POUGH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Efficient Universal Goal Hijacking with Semantics-guided Prompt Organization]()\\
+[Efficient Universal Goal Hijacking with Semantics-guided Prompt Organization](https://arxiv.org/pdf/2405.14189v2)\\
 **Yihao Huang**, Chong Wang, Xiaojun Jia, Qing Guo, Felix Juefei-Xu, Jian Zhang, Yang Liu, Geguang Pu\\
 **Annual Meeting of the Association for Computational Linguistics 2025** (CCF-A)
 </div>
