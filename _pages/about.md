@@ -87,7 +87,7 @@ Yuyang Zhang, Kangjie Chen, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, **
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='pub_images/2025TPAMI_SAAET.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack](https://arxiv.org/pdf/2411.02669)\\
-Xiaojun Jia, Sensen Gao, Qing Guo, Ke Ma, **Yihao Huang**, Simeng Qin, Yang Liu, Ivor Tsang Fellow, Xiaochun Cao\\
+Xiaojun Jia, Sensen Gao, Qing Guo, Simeng Qin, Ke Ma, **Yihao Huang**, Yang Liu, Ivor Tsang, Xiaochun Cao\\
 **IEEE Transactions on Pattern Analysis and Machine Intelligence 2025** (CCF-A)
 </div>
 </div> 
