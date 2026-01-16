@@ -34,6 +34,10 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 One paper is accepted to Usenix Security 2026.
+- *2025.12*: &nbsp;🎉 One paper is accepted to FSE 2026.
+- *2025.12*: &nbsp;🎉 One paper is accepted to ICSE 2026.
+- *2025.09*: &nbsp;🎉 Two papers are accepted to NeurIPS 2025.
 - *2025.06*: &nbsp;🎉 One paper is accepted to ICCV 2025.
 - *2025.06*: &nbsp;🎉 One paper is accepted to CCS 2025.
 - *2025.06*: &nbsp;🎉 One paper is accepted to Usenix Security 2025.
@@ -60,6 +64,46 @@ My research interest includes AI security in Multimedia, focusing on DeepFake, A
 - *2021.10*: &nbsp;🎉 I obtained the National Graduate Fellowship 2022.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2026</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[VSG-Safe: Spotting NSFW Video through Cross-Frame Evidence]()\\
+Yuyang Zhang, Xudong Jiang, Yuxuan Song, Yuxiang Sun, Yihao Huang, Run Wang, Shundi Xiao, Lina Wang\\
+**USENIX Security Symposium 2026** (CCF-A)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking]()\\
+Yifan Huang, Xiaojun Jia, Wenbo Guo, Yuqiang Sun, **Yihao Huang**, Chong Wang, Yang Liu\\
+**ACM International Conference on the Foundations of Software Engineering 2026** (CCF-A)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction]()\\
+Jiayi Hu, Jingling Sun, Chong Wang, **Yihao Huang**, Jincao Feng, Yilongfei Xu, Yong Li, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu\\
+**IEEE/ACM International Conference on Software Engineering 2026** (CCF-A)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Analogy-based Multi-Turn Jailbreak against Large Language Models]()\\
+Mengjie Wu, **Yihao Huang**, Zhenjun Lin, Kangjie Chen, Yuyang Zhang, Yuhan Huang, Run Wang, Lina Wang\\
+**Annual Conference on Neural Information Processing Systems 2025** (CCF-A)
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment]()\\
+Xiaojun Jia, Sensen Gao, Simeng Qin, Tianyu Pang, Chao Du, **Yihao Huang**, Xinfeng Li, Yiming Li, Bo Li, Yang Liu\\
+**Annual Conference on Neural Information Processing Systems 2025** (CCF-A)
+</div>
+</div> 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='pub_images/2025ICCV_HIMRD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models]()\\
