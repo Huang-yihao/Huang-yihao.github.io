@@ -66,9 +66,9 @@ My research interest includes Trustworthy AI, focusing on Adversarial Attacks/De
     <li><em>2023.07</em>: 🎉 One paper is accepted to RTSS 2023.</li>
     <li><em>2023.07</em>: 🎉 One paper is accepted to ACM MM 2023.</li>
     <li><em>2023.02</em>: 🎉 One paper is accepted to CVPR 2023.</li>
-    <li><em>2022.10</em>: 🎉 Best Paper Award (ECCV 2022 AROW).</li>
-    <li><em>2022.02</em>: 🎉 Outstanding Graduate of Shanghai 2022.</li>
-    <li><em>2021.10</em>: 🎉 National Graduate Fellowship 2022.</li>
+    <li><em>2022.10</em>: 🎉 Best Paper Award [ECCV 2022 AROW workshop](https://eccv22-arow.github.io/).</li>
+    <li><em>2022.02</em>: 🎉 I obtained the Outstanding Graduate of Shanghai 2022.</li>
+    <li><em>2021.10</em>: 🎉 I obtained the National Graduate Fellowship 2022.</li>
   </ul>
 </details>
 
