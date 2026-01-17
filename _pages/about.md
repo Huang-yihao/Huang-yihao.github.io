@@ -74,7 +74,7 @@ Yuyang Zhang, Xudong Jiang, Yuxuan Song, Yuxiang Sun, Yihao Huang, Run Wang, Shu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking]()\\
+[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/pdf/2512.21236)\\
 Yifan Huang, Xiaojun Jia, Wenbo Guo, Yuqiang Sun, **Yihao Huang**, Chong Wang, Yang Liu\\
 **ACM International Conference on the Foundations of Software Engineering 2026** (CCF-A)
 </div>
@@ -82,23 +82,23 @@ Yifan Huang, Xiaojun Jia, Wenbo Guo, Yuqiang Sun, **Yihao Huang**, Chong Wang, Y
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction]()\\
+[ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/293/ADARULE-LLM-Driven-Natural-Language-to-LTL-Conversion-via-Pattern-Adaptive-Rule-Indu)\\
 Jiayi Hu, Jingling Sun, Chong Wang, **Yihao Huang**, Jincao Feng, Yilongfei Xu, Yong Li, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu\\
 **IEEE/ACM International Conference on Software Engineering 2026** (CCF-A)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='pub_images/2025NeurIPS_AMA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Analogy-based Multi-Turn Jailbreak against Large Language Models]()\\
+[Analogy-based Multi-Turn Jailbreak against Large Language Models](https://openreview.net/pdf/90ec84387b8d7282640d625e2d28faef32f89000.pdf)\\
 Mengjie Wu, **Yihao Huang**, Zhenjun Lin, Kangjie Chen, Yuyang Zhang, Yuhan Huang, Run Wang, Lina Wang\\
 **Annual Conference on Neural Information Processing Systems 2025** (CCF-A)
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='pub_images/.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='pub_images/2025NeurIPS_FOA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment]()\\
+[Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment](https://neurips.cc/media/neurips-2025/Slides/116337_lbhqRMy.pdf)\\
 Xiaojun Jia, Sensen Gao, Simeng Qin, Tianyu Pang, Chao Du, **Yihao Huang**, Xinfeng Li, Yiming Li, Bo Li, Yang Liu\\
 **Annual Conference on Neural Information Processing Systems 2025** (CCF-A)
 </div>
@@ -106,7 +106,7 @@ Xiaojun Jia, Sensen Gao, Simeng Qin, Tianyu Pang, Chao Du, **Yihao Huang**, Xinf
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='pub_images/2025ICCV_HIMRD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models]()\\
+[Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Heuristic-Induced_Multimodal_Risk_Distribution_Jailbreak_Attack_for_Multimodal_Large_Language_ICCV_2025_paper.pdf)\\
 Teng Ma, Xiaojun Jia, Ranjie Duan, Xinfeng Li, **Yihao Huang**, Xiaoshuang Jia, Zhixuan Chu, Wenqi Ren\\
 **International Conference on Computer Vision 2025** (CCF-A)
 </div>
@@ -114,7 +114,7 @@ Teng Ma, Xiaojun Jia, Ranjie Duan, Xinfeng Li, **Yihao Huang**, Xiaoshuang Jia, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='pub_images/2025CCS_FilterFL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning]()\\
+[FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](https://dl.acm.org/doi/10.1145/3719027.3744883)\\
 Yanxin Yang, Ming Hu, Xiaofei Xie, Yue Cao, Pengyu Zhang, **Yihao Huang**, Mingsong Chen\\
 **ACM Conference on Computer and Communications Security 2025** (CCF-A)
 </div>
@@ -122,7 +122,7 @@ Yanxin Yang, Ming Hu, Xiaofei Xie, Yue Cao, Pengyu Zhang, **Yihao Huang**, Mings
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='pub_images/2025usenix_USD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph]()\\
+[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-yuyang)\\
 Yuyang Zhang, Kangjie Chen, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, **Yihao Huang**, Run Wang, Lina Wang\\
 **USENIX Security Symposium 2025** (CCF-A)
 </div>
