@@ -147,7 +147,7 @@ Xiaojun Jia, Sensen Gao, Qing Guo, Simeng Qin, Ke Ma, **Yihao Huang**, Yang Liu,
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='pub_images/2025ACL_POUGH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (main)</div><img src='pub_images/2025ACL_POUGH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Efficient Universal Goal Hijacking with Semantics-guided Prompt Organization](https://arxiv.org/pdf/2405.14189v2)\\
 **Yihao Huang**, Chong Wang, Xiaojun Jia, Qing Guo, Felix Juefei-Xu, Jian Zhang, Yang Liu, Geguang Pu\\
@@ -367,10 +367,11 @@ Reviewer:
 - *2022.02* Outstanding Graduate of Shanghai. 
 - *2021.10* National Graduate Fellowship, China. 
 
-# 📖 Educations
+# 📖 Education and Work Experience
+- *2025.04 - 2026.02*, National University of Singapore, Postdoc Research Fellow. 
+- *2022.09 - 2025.04*, Nanyang Technological University, Postdoc Research Fellow. 
 - *2017.09 - 2022.06*, East China Normal University, Ph.D. 
 - *2013.09 - 2017.06*, East China Normal University, Bachelor.
-- *2010.09 - 2013.06*, Shanghai Gezhi High School.
 
 # 💬 Invited Talks
 - *2024.07*, [WAIC](https://english.shanghai.gov.cn/en-2024waic/index.html), China, Title "Academic Thinking and Future Prospects on DeepFake Detection and Adversarial Attack".
