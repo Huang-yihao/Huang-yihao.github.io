@@ -367,7 +367,7 @@ Reviewer:
 - *2022.02* Outstanding Graduate of Shanghai. 
 - *2021.10* National Graduate Fellowship, China. 
 
-# 📖 Education and Work Experience
+# 📖 Educations and Work Experience
 - *2025.04 - 2026.02*, National University of Singapore, Postdoc Research Fellow. 
 - *2022.09 - 2025.04*, Nanyang Technological University, Postdoc Research Fellow. 
 - *2017.09 - 2022.06*, East China Normal University, Ph.D. 
