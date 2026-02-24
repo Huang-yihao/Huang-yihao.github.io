@@ -38,6 +38,7 @@ My research interest includes Trustworthy AI, focusing on Adversarial Attacks/De
 # 🔥 News
 
 <ul>
+  <li><em>2026.02</em>: 🎉 One paper is accepted to CVPR 2026.</li>
   <li><em>2026.01</em>: 🎉 One paper is accepted to Usenix Security 2026.</li>
   <li><em>2025.12</em>: 🎉 One paper is accepted to FSE 2026.</li>
   <li><em>2025.12</em>: 🎉 One paper is accepted to ICSE 2026.</li>
@@ -77,6 +78,14 @@ My research interest includes Trustworthy AI, focusing on Adversarial Attacks/De
 
 # 📝 Publications 
 ("*" indicates corresponding author, "#" indicates co-first author.)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='pub_images/2026CVPR_ILA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack]()\\
+Chenyang Li, Wenbing Tang, **Yihao Huang***, Simon Sinong Zhan, Ming Hu, Xiaojun Jia, Yang Liu\\
+**Computer Vision and Pattern Recognition 2026** (CCF-A)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2026</div><img src='pub_images/2026USENIX_VSGsafe.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [VSG-Safe: Spotting NSFW Video through Cross-Frame Evidence]()\\
