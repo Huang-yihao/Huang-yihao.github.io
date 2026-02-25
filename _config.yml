@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yihao Huang (黄怿豪)"
-description              : "Research Fellow, NUS"
+description              : "Associate Professor, ECNU"
 repository               : "Huang-yihao/Huang-yihao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yihao Huang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : # e.g.,"Lorem ipsum College"
-  location         : "Singapore"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yHSSQ6cAAAAJ"
