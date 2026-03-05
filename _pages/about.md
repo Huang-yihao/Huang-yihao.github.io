@@ -80,7 +80,7 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
 ("*" indicates corresponding author, "#" indicates co-first author.)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='pub_images/2026CVPR_ILA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack]()\\
+[Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](https://arxiv.org/abs/2511.13132)\\
 Chenyang Li, Wenbing Tang, **Yihao Huang***, Simon Sinong Zhan, Ming Hu, Xiaojun Jia, Yang Liu\\
 **Computer Vision and Pattern Recognition 2026** (CCF-A)
 </div>
@@ -298,7 +298,7 @@ Yang Hou, Qing Guo, **Yihao Huang**, Xiaofei Xie, Lei Ma, Jianjun Zhao \\
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='pub_images/2022IJCV_DeepFakeSurvey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://openaccess.thecvf.com/content/CVPR2023/papers/Hou_Evading_DeepFake_Detectors_via_Adversarial_Statistical_Consistency_CVPR_2023_paper.pdf) \\
+[Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://dl.acm.org/doi/10.1007/s11263-022-01606-8) \\
 Felix Juefei-Xu, Run Wang, **Yihao Huang**, Qing Guo, Lei Ma, Yang Liu  \\
 **International Journal of Computer Vision 2023** (CCF-A)
 </div>
