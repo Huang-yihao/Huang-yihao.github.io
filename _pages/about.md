@@ -260,7 +260,7 @@ Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang 
 <div class='paper-box-text' markdown="1">
 [Natural & Adversarial Bokeh Rendering via Circle-of-Confusion Predictive Network](https://arxiv.org/pdf/2111.12971.pdf) \\
 **Yihao Huang**, Felix Juefei-Xu, Qing Guo, Geguang Pu, Yang Liu \\
-**IEEE Transactions on Multimedia 2023** (CCF-B)
+**IEEE Transactions on Multimedia 2023** (CCF-A)
 </div>
 </div> 
 
