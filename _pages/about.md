@@ -31,7 +31,7 @@ redirect_from:
 I am currently an Associate Professor at East China Normal University (ECNU). I was awarded the NSFC Excellent Young Scientists Fund (Overseas).
 My research interest includes Trustworthy AI, focusing on Adversarial Attacks/Defense, LLM, Embodied AI, etc. 
 
-Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/), Singapore, advised by Prof. [Jin-Song Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/). Before that, I was a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I got a Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017). I was fortunate to receive guidance from Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/), with whom I worked closely.
+Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/), Singapore, advised by Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/). Before that, I was a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I got a Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017). I was fortunate to receive guidance from Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/), with whom I worked closely.
 
 <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
@@ -370,8 +370,8 @@ Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang
 
 # 💻 Service
 Reviewer:
-- Conference: NeurIPS, ICML, AAAI, CVPR, ICCV, IJCAI, ECCV, ACM MM, ICLR, WWW, ICMR
-- Journal: TCSVT, IJCV, TIP, TKDE, NN, CVIU, JCST, TMM
+- Conference: NeurIPS, ICML, AAAI, CVPR, ICCV, ACM MM, ICLR, WWW, ASE, IJCAI, ECCV, ICMR
+- Journal: IJCV, TIP, TKDE, TMM, TCSVT, NN, CVIU, JCST
 
 # 🎖 Honors and Awards
 - *2022.10* Best Paper Award in [ECCV 2022 AROW workshop](https://eccv22-arow.github.io/)
