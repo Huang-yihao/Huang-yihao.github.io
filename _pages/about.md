@@ -29,7 +29,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently an Associate Professor at East China Normal University (ECNU). I was awarded the NSFC Excellent Young Scientists Fund (Overseas).
-My research interest includes Trustworthy AI, focusing on Adversarial Attacks/Defense, LLM, Embodied AI, etc. 
+My research interest includes AI Security/Safety, Embodied Intelligence, Multimodal Model, Requirements Engineering, etc. 
 
 Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/), Singapore, advised by Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/). Before that, I was a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I got a Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017). I was fortunate to receive guidance from Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/), with whom I worked closely.
 
@@ -194,7 +194,7 @@ Xiaoyu Zhang, Cen Zhang, Tianlin Li, **Yihao Huang**, Xiaojun Jia, Ming Hu, Jie 
 <div class='paper-box-text' markdown="1">
 [Improved Techniques for Optimization-Based Jailbreaking on Large Language Models](https://arxiv.org/pdf/2405.21018)\\
 Xiaojun Jia, Tianyu Pang, Chao Du, **Yihao Huang**, Jindong Gu, Yang Liu, Xiaochun Cao, Min Lin \\
-**International Conference on Learning Representations 2025**
+**International Conference on Learning Representations 2025** (CCF-A)
 </div>
 </div> 
 
