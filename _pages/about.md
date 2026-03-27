@@ -38,6 +38,7 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
 # 🔥 News
 
 <ul>
+  <li><em>2026.03</em>: 🎉 One paper is accepted to TIFS 2026.</li>
   <li><em>2026.02</em>: 🎉 One paper is accepted to CVPR 2026.</li>
   <li><em>2026.01</em>: 🎉 One paper is accepted to Usenix Security 2026.</li>
   <li><em>2025.12</em>: 🎉 One paper is accepted to FSE 2026.</li>
@@ -78,6 +79,15 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
 
 # 📝 Publications 
 ("*" indicates corresponding author, "#" indicates co-first author.)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2026</div><img src='pub_images/2026TIFS_PromptGuard.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544)\\
+Lingzhi Yuan, Xinfeng Li, Chejian Xu, Guanhong Tao, Xiaojun Jia, **Yihao Huang**, Wei Dong, Yang Liu, Xiaofeng Wang, Bo Li\\
+**IEEE Transactions on Information Forensics and Security 2026** (CCF-A)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='pub_images/2026CVPR_ILA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](https://arxiv.org/abs/2511.13132)\\
