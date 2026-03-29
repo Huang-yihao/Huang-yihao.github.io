@@ -8,6 +8,28 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+@media print {
+  .print-section {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  .print-section:first-of-type {
+    break-before: auto;
+    page-break-before: auto;
+  }
+
+  .paper-box,
+  details,
+  ul,
+  li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -26,7 +48,9 @@ redirect_from:
   gtag('config', 'G-3GCYPY09SM');
 </script>
 
+<section class="print-section">
 <span class='anchor' id='about-me'></span>
+</section>
 
 I am currently an Associate Professor at East China Normal University (ECNU). I was awarded the NSFC Excellent Young Scientists Fund (Overseas).
 My research interest includes AI Security/Safety, Embodied Intelligence, Multimodal Model, Requirements Engineering, etc. 
