@@ -59,6 +59,7 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
 
 <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
+<section class="print-section">
 # 🔥 News
 
 <ul>
@@ -99,7 +100,7 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
     <li><em>2021.10</em>: 🎉 I obtained the National Graduate Fellowship 2022.</li>
   </ul>
 </details>
-
+</section>
 
 # 📝 Publications 
 ("*" indicates corresponding author, "#" indicates co-first author.)
