@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yihao Huang (黄怿豪)"
+  name             : "Yihao Huang"
+  name_cn          : "黄怿豪"
   avatar           : "/images/android-chrome-512x512.png"
   bio              : # e.g.,"Lorem ipsum College"
   location         : "China"
