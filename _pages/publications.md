@@ -10,7 +10,7 @@ author_profile: true
 
 ("*" indicates corresponding author, "#" indicates co-first author.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2026</div><img src='../pub_images/2026TIFS_PromptGuard.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2026</div><img src='/pub_images/2026TIFS_PromptGuard.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544)\\
 Lingzhi Yuan, Xinfeng Li, Chejian Xu, Guanhong Tao, Xiaojun Jia, **Yihao Huang**, Wei Dong, Yang Liu, Xiaofeng Wang, Bo Li\\
