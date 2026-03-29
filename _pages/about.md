@@ -8,28 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-@media print {
-  .print-section {
-    break-before: page;
-    page-break-before: always;
-  }
-
-  .print-section:first-of-type {
-    break-before: auto;
-    page-break-before: auto;
-  }
-
-  .paper-box,
-  details,
-  ul,
-  li {
-    break-inside: avoid;
-    page-break-inside: avoid;
-  }
-}
-</style>
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -48,9 +26,8 @@ redirect_from:
   gtag('config', 'G-3GCYPY09SM');
 </script>
 
-<section class="print-section">
+
 <span class='anchor' id='about-me'></span>
-</section>
 
 I am currently an Associate Professor at East China Normal University (ECNU). I was awarded the NSFC Excellent Young Scientists Fund (Overseas).
 My research interest includes AI Security/Safety, Embodied Intelligence, Multimodal Model, Requirements Engineering, etc. 
@@ -59,7 +36,6 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
 
 <p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
-<section class="print-section">
 # 🔥 News
 
 <ul>
@@ -100,7 +76,6 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
     <li><em>2021.10</em>: 🎉 I obtained the National Graduate Fellowship 2022.</li>
   </ul>
 </details>
-</section>
 
 # 📝 Publications 
 ("*" indicates corresponding author, "#" indicates co-first author.)
