@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yihao Huang (黄怿豪)"
+title                    : "Yihao Huang<br>(黄怿豪)"
 description              : "Associate Professor, ECNU"
 repository               : "Huang-yihao/Huang-yihao.github.io"
 google_scholar_stats_use_cdn : true
