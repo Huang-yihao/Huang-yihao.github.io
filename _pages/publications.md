@@ -10,6 +10,14 @@ author_profile: true
 
 ("*" indicates corresponding author, "#" indicates co-first author.)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='/pub_images/2026TIP_TAMP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Time-variant Image Inpainting via Interactive Distribution Transition Estimation](https://arxiv.org/pdf/2506.23461)\\
+Yun Xing, Qing Guo, Xiaoguang Li, **Yihao Huang**, Xiaofeng Cao, Di Lin, Ivor Tsang, Lei Ma\\
+**IEEE Transactions on Image Processing 2026** (CCF-A)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2026</div><img src='/pub_images/2026TIFS_PromptGuard.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544)\\
