@@ -35,6 +35,7 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
 # 🔥 News
 
 <ul>
+  <li><em>2026.04</em>: 🎉 One paper is accepted to TIP 2026.</li>
   <li><em>2026.03</em>: 🎉 One paper is accepted to TIFS 2026.</li>
   <li><em>2026.02</em>: 🎉 One paper is accepted to CVPR 2026.</li>
   <li><em>2026.01</em>: 🎉 One paper is accepted to Usenix Security 2026.</li>
@@ -45,13 +46,14 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
   <li><em>2025.06</em>: 🎉 One paper is accepted to CCS 2025.</li>
   <li><em>2025.06</em>: 🎉 One paper is accepted to Usenix Security 2025.</li>
   <li><em>2025.06</em>: 🎉 One paper is accepted to TPAMI 2025.</li>
-  <li><em>2025.05</em>: 🎉 One paper is accepted to ACL 2025 (main).</li>
-  <li><em>2025.04</em>: 🎉 One paper is accepted to SIGIR 2025.</li>
+
 </ul>
 
 <details>
   <summary>👉 Show earlier news</summary>
   <ul>
+    <li><em>2025.05</em>: 🎉 One paper is accepted to ACL 2025 (main).</li>
+    <li><em>2025.04</em>: 🎉 One paper is accepted to SIGIR 2025.</li>
     <li><em>2025.03</em>: 🎉 One paper is accepted to TOSEM 2025.</li>
     <li><em>2025.02</em>: 🎉 One paper is accepted to TIFS 2025.</li>
     <li><em>2025.01</em>: 🎉 One paper is accepted to ICLR 2025.</li>
