@@ -42,6 +42,14 @@ Yuyang Zhang, Xudong Jiang, Yuxuan Song, Yuxiang Sun, **Yihao Huang**, Run Wang,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='/pub_images/2026FSE_Lingfuzz.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Red Teaming LLMs via Linguistic-Aware Fuzzing](https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/186/Red-Teaming-LLMs-via-Linguistic-Aware-Fuzzing)\\
+Shuai Yuan, Nian Luo, Jingling Sun, **Yihao Huang**, Chengyu Zhang\\
+**ACM International Conference on the Foundations of Software Engineering 2026** (CCF-A)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='/pub_images/2026FSE_SPELL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/pdf/2512.21236)\\
