@@ -28,9 +28,17 @@ Lingzhi Yuan, Xinfeng Li, Chejian Xu, Guanhong Tao, Xiaojun Jia, **Yihao Huang**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='/pub_images/2026CVPR_ILA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](https://arxiv.org/abs/2511.13132)\\
+[Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](http://openaccess.thecvf.com/content/CVPR2026/papers/Li_Shedding_Light_on_VLN_Robustness_A_Black-box_Framework_for_Indoor_CVPR_2026_paper.pdf)\\
 Chenyang Li, Wenbing Tang, **Yihao Huang***, Simon Sinong Zhan, Ming Hu, Xiaojun Jia, Yang Liu\\
 **Computer Vision and Pattern Recognition 2026** (CCF-A)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Finding)</div><img src='/pub_images/2026CVPR_BPO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization](https://openaccess.thecvf.com/content/CVPR2026F/papers/Zhao_Verify_Claimed_Text-to-Image_Models_Via_Boundary-Aware_Prompt_Optimization_CVPRF_2026_paper.pdf)\\
+Zidong Zhao, **Yihao Huang***, Qing Guo, Tianlin Li, Anran Li, Kailong Wang, Jin Song Dong, Geguang Pu\\
+**Computer Vision and Pattern Recognition 2026**
 </div>
 </div>
 
