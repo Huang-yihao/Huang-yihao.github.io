@@ -25,7 +25,7 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor at East China Normal University (ECNU). I was awarded the NSFC Excellent Young Scientists Fund (Overseas).
+I am currently an Associate Professor at East China Normal University (ECNU).
 My research interest includes AI Security/Safety, Embodied Intelligence, Multimodal Model, Prompt Engineering, etc. 
 
 Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/), Singapore, advised by Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/). Before that, I was a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I got a Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://ggpu-ecnu.github.io/) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017). I was fortunate to receive guidance from Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/), with whom I worked closely.
