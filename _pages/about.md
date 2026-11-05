@@ -75,7 +75,5 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
   </ul>
 </details>
 
-<div style="width: 200px; height: 100px; ">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ASpz8ZkQ2GWxGPubSejukEoQVn4Q8ScExdJ7d3yC5eM&cl=ffffff&w=a"></script>
-</div>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=e4SjoS6F3Lu8RsPifEKTI4H9XlpaiFI1Q6FSwV9xwKw&cl=ffffff&w=a"></script>
 
