@@ -75,5 +75,10 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
   </ul>
 </details>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=e4SjoS6F3Lu8RsPifEKTI4H9XlpaiFI1Q6FSwV9xwKw&cl=ffffff&w=a"></script>
-
+<div style="width: 100%; height: 100px; overflow: visible;">
+  <div style="transform: scale(0.25); transform-origin: top left; width: 400%;">
+    <script type="text/javascript" id="mapmyvisitors"
+      src="https://mapmyvisitors.com/map.js?d=e4SjoS6F3Lu8RsPifEKTI4H9XlpaiFI1Q6FSwV9xwKw&cl=ffffff&w=a">
+    </script>
+  </div>
+</div>
