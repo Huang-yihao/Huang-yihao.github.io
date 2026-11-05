@@ -78,17 +78,23 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
 <style>
 .visitor-map-box {
   width: 300px;
-  height: 160px;
-  overflow: hidden;
-  position: relative;
+  max-width: 100%;
   margin: 15px 0;
+  overflow: hidden;
 }
 
 .visitor-map-box .mapmyvisitors-map {
-  width: 1200px !important;
-  height: 640px !important;
-  transform: scale(0.25);
-  transform-origin: top left;
+  width: 300px !important;
+  max-width: 100% !important;
+  height: auto !important;
+  background-size: 100% 100% !important;
+  background-repeat: no-repeat !important;
+}
+
+.visitor-map-box svg {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
 }
 </style>
 
