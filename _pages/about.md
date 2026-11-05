@@ -75,33 +75,6 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
   </ul>
 </details>
 
-<style>
-.visitor-map-box {
-  width: 300px;
-  max-width: 100%;
-  margin: 15px 0;
-  overflow: hidden;
-}
-
-.visitor-map-box .mapmyvisitors-map {
-  width: 300px !important;
-  max-width: 100% !important;
-  height: auto !important;
-  background-size: 100% 100% !important;
-  background-repeat: no-repeat !important;
-}
-
-.visitor-map-box svg {
-  width: 100% !important;
-  height: auto !important;
-  display: block;
-}
-</style>
-
-<div class="visitor-map-box">
-  <script
-    type="text/javascript"
-    id="mapmyvisitors"
-    src="https://mapmyvisitors.com/map.js?d=e4SjoS6F3Lu8RsPifEKTI4H9XlpaiFI1Q6FSwV9xwKw&cl=ffffff&w=300">
-  </script>
-</div>
+<script type="text/javascript" id="mapmyvisitors"
+src="https://mapmyvisitors.com/map.js?d=e4SjoS6F3Lu8RsPifEKTI4H9XlpaiFI1Q6FSwV9xwKw&cl=ffffff&w=300">
+</script>
