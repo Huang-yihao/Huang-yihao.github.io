@@ -75,10 +75,27 @@ Previously, I was a research fellow in the PLSE Lab at [NUS](https://nus.edu.sg/
   </ul>
 </details>
 
-<div style="width: 300px; max-width: 100%; margin: 15px 0;">
-  <img
-    src="https://mapmyvisitors.com/map.png?d=e4SjoS6F3Lu8RsPifEKTI4H9XlpaiFI1Q6FSwV9xwKw"
-    alt="Visitor Map"
-    style="width: 100%; height: auto; display: block;"
-  >
+<style>
+.visitor-map-box {
+  width: 300px;
+  height: 160px;
+  overflow: hidden;
+  position: relative;
+  margin: 15px 0;
+}
+
+.visitor-map-box .mapmyvisitors-map {
+  width: 1200px !important;
+  height: 640px !important;
+  transform: scale(0.25);
+  transform-origin: top left;
+}
+</style>
+
+<div class="visitor-map-box">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=e4SjoS6F3Lu8RsPifEKTI4H9XlpaiFI1Q6FSwV9xwKw&cl=ffffff&w=300">
+  </script>
 </div>
